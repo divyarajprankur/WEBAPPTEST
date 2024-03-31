@@ -54,7 +54,7 @@
           <artifactId>maven-war-plugin</artifactId>
           <version>3.3.1</version>
 		  <configuration>
-			<webXml>D:\Devops\git\divyarajwebpage\webappdivyaraj\src\main\java\com\divyaraj\WEB-INF\web.xml</webXml>        
+			<webXml>src\main\java\com\divyaraj\WEB-INF\web.xml</webXml>        
 		  </configuration>
 		</plugin>
         <plugin>
